@@ -12,7 +12,7 @@ class main_application(pyglet.window.Window):
 
         self.fill_color = (255, 255, 255)
         self.stop = False
-        self.tile_size = 8
+        self.tile_size = 1
         self.speed = 0.001
 
         self.x_offset = 0
