@@ -3,8 +3,6 @@ import ctypes
 import random
 import numpy as np
 
-import concurrent.futures
-
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
